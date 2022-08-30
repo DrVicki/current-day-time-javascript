@@ -68,7 +68,7 @@ Today is : Tuesday.
 Current Time : 07 PM  : 30 : 38
 ```
 
-###Explanations:
+### Explanations:
 
 Declaring a JavaScript date : In JavaScript Date objects are based on a time value that is the number of milliseconds since 1 January, 1970 UTC. You can declare a date in the following ways :
 
@@ -94,4 +94,4 @@ Post meridiem: After noon Between noon (12:00) & midnight (0:00)
 
 ![Flowchart](https://www.w3resource.com/w3r_images/javascript-basic-exercise-flowchart-1.png)
 
-[LIVE DEMO](https://codepen.io/drvicki/pen/MWVNRQE)
+[# LIVE DEMO](https://codepen.io/drvicki/pen/MWVNRQE)
